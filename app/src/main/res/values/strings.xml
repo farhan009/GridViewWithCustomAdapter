@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GridView With CustomAdapter</string>
+
+    <string-array name="countryNames">
+
+        <item> Bangladesh </item>
+        <item> Canada </item>
+        <item> Germany </item>
+        <item> India </item>
+        <item> London </item>
+        <item> United State </item>
+
+        <item> LinkDin </item>
+        <item> Messsenger </item>
+        <item> Skype </item>
+        <item> Spotify </item>
+        <item> Telegram </item>
+        <item> Twitter </item>
+
+        <item> WhatsApp </item>
+        <item> Youtube </item>
+
+    </string-array>
+
+</resources>
